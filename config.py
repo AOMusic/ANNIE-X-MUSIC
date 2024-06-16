@@ -34,7 +34,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/indiancreationwithsomu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+N_IQeLI3pmgxMTQ1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/indiancreationwithsomu")
 
 # Server limits and configurations - These can be set based on your server configurations
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
